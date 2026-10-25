@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Secrets: never commit real keys (see backend/.env.example)
+.env
+
+.DS_Store
+.claude/
+.playwright-mcp/
